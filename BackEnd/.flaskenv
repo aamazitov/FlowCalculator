@@ -1,0 +1,3 @@
+FLASK_APP=main.py
+DB_USERNAME=postgres
+DB_PASSWORD=postgres
